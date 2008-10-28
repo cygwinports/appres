@@ -1,6 +1,6 @@
 appres
 ------------------------------------------
-Xorg application resource viewer
+X.Org application resource viewer
 
 Runtime requirements:
   cygwin-1.5.24-2

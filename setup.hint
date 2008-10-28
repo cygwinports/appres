@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXt6
-sdesc: "Xorg application resource viewer"
-ldesc: "Xorg application resource viewer"
+sdesc: "X.Org application resource viewer"
+ldesc: "X.Org application resource viewer"
