@@ -1,4 +1,4 @@
 category: X11
-requires: libX11_6 libXt6
+requires: libgcc1 libX11_6 libXt6
 sdesc: "X.Org application resource viewer"
 ldesc: "X.Org application resource viewer"
